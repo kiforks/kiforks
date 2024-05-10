@@ -24,8 +24,6 @@
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 🌱 Interested in learning new technologies and improving skills
 - 🚀 Ability to work at a fast pace and make decisions in stressful situations
-- 🌐 Attention to detail and a commitment to code quality
-- 💡 Ability to create innovative and creative solutions for complex tasks
 
 <details>
   <summary>More info</summary>
