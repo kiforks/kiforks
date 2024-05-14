@@ -60,7 +60,7 @@
 <img alt="storybook" src="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=fff" />&nbsp;
 <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
-<img alt="billboard.js" src="https://img.shields.io/badge/billboard.js-f97675.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img alt="d3.js" src="https://img.shields.io/badge/d3.js-f97675.svg?&style=for-the-badge&logo=d3&logoColor=fff" />&nbsp;
 
 ###### State Management
 <img alt="ngrx" src="https://img.shields.io/badge/ngrx-BA2BD2.svg?&style=for-the-badge&logo=ngrx&logoColor=fff" />&nbsp;
@@ -99,8 +99,8 @@
 
 ###### Development Tools & Utilities
 <img alt="ci/cd" src="https://img.shields.io/badge/ci&#47;cd-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=fff" />&nbsp;
-<img alt="aws" src="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=awsamplify&logoColor=fff" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
+<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
 ###### Project Management
