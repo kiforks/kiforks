@@ -15,8 +15,8 @@
 
 ## About me 💻
 
-- 📍 I’m From Ukraine (Ivano-Frankivsk)
-- 💻 5+ Years Experience in Front-end Development
+- 📍 I’m originally from Ukraine and currently living in Czech Republic
+- 💻 6+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 🌱 Interested in learning new technologies and improving skills
 - 🚀 Ability to work at a fast pace and make decisions in stressful situations
@@ -84,17 +84,17 @@ I enjoy working in Agile/SCRUM teams. I mentor junior developers and focus on de
 <img alt="rollup" src="https://img.shields.io/badge/rollup-EC4A3F.svg?&style=for-the-badge&logo=rollupdotjs&logoColor=fff" />&nbsp;
 <img alt="vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=fff" />&nbsp;
 
-###### Backend Technologies
-<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
-<img alt="jwt" src="https://img.shields.io/badge/jwt-000000.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=fff" />&nbsp;
-<img alt="oauth" src="https://img.shields.io/badge/oauth-3DABDD.svg?&style=for-the-badge&logo=oauth&logoColor=fff" />&nbsp;
-<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
-
 ###### Others
 <img alt="websockets" src="https://img.shields.io/badge/web--sockets-010101.svg?&style=for-the-badge&logo=socketdotio&logoColor=fff" />&nbsp;
 <img alt="service-workers" src="https://img.shields.io/badge/service--workers-FF6A33.svg?&style=for-the-badge&logo=mockserviceworker&logoColor=fff" />&nbsp;
 <img alt="web-workers" src="https://img.shields.io/badge/web--workers-000000.svg?&style=for-the-badge&logo=mockserviceworker&logoColor=fff" />&nbsp;
 <img alt="restful-api" src="https://img.shields.io/badge/restful--api-73DC8C.svg?&style=for-the-badge&logo=httpie&logoColor=fff" />&nbsp;
+
+#### 🛠️ Backend Technologies
+<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="jwt" src="https://img.shields.io/badge/jwt-000000.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=fff" />&nbsp;
+<img alt="oauth" src="https://img.shields.io/badge/oauth-3DABDD.svg?&style=for-the-badge&logo=oauth&logoColor=fff" />&nbsp;
+<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 
 #### 📊 Methodologies and Design Patterns
 <img alt="oop" src="https://img.shields.io/badge/oop-000000.svg?&style=for-the-badge&logo=nounproject&logoColor=fff" />&nbsp;
@@ -118,7 +118,7 @@ I enjoy working in Agile/SCRUM teams. I mentor junior developers and focus on de
 <img alt="jira" src="https://img.shields.io/badge/jira-2D80FF.svg?&style=for-the-badge&logo=jira&logoColor=fff" />&nbsp;
 <img alt="confluence" src="https://img.shields.io/badge/confluence-1F4D7D.svg?&style=for-the-badge&logo=confluence&logoColor=fff" />&nbsp;
 
-###### Design і Multimedia
+###### Design & Multimedia
 <img alt="photoshop" src="https://img.shields.io/badge/photoshop-31A8FF.svg?&style=for-the-badge&logo=adobe-photoshop&logoColor=fff" />&nbsp;
 <img alt="figma" src="https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=fff" />&nbsp;
 
