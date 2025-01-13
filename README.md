@@ -1,4 +1,4 @@
-<img src="assets/preview.jpeg">
+<img src="assets/preview.jpg">
 
 ###
 
