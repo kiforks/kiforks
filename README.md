@@ -26,12 +26,19 @@
   
   ####
   
-  I am an experienced Angular Frontend Developer with a diverse background working in different environments, from the web studio FlyFox and the American product company TenantCloud to the outstaffing firm Abto Software. My broad experience encompasses leading the development of e-commerce websites, creating complex property management modules, and developing high-performance web applications. My ability to work in teams of various sizes enables me to contribute effectively to projects of varying complexity.
+I am an Angular Frontend Developer with over 5 years of experience. I build scalable and high-performance web applications. I also modernize legacy systems. I have developed over 100 reusable UI components, increasing user engagement by 40%. I led migrations to the latest Angular versions, boosting app performance by 25%.
 
-  I have extensive experience in applying modern technologies such as Angular, TypeScript, RxJS, and NgRx to create intuitive and efficient user interfaces. My portfolio includes the development of ~80% of the UI components for our internal design system, standardizing and enhancing development efficiency and user interaction. This experience demonstrates my capability to create complex and modular design systems that impact the entire product line.
+🔹 At Hygge Software, I built a note-taking tool with text editing and multimedia features. This increased user engagement by 30%. I also created an AI flashcard system that made learning 40% more effective.
 
-  I am committed to continuously improving code quality through refactoring and applying design patterns, and I share best practices and knowledge with colleagues, fostering a culture of mutual learning and development within the team. My high adaptability to different work environments and dedication to industry best practices allow me to make a significant contribution to the projects I work on
-</details>
+🔹 At Abto Software, I transformed projects by migrating them from AngularJS to the latest Angular versions, improving performance by 25%. I designed responsive and user-friendly interfaces that supported business goals.
+
+🔹 At TenantCloud, I developed a rental management module that made operations 35% more efficient. I also created a reporting system that helped property owners make better decisions, improving results by 20%. I standardized UI components with Angular Material and Bootstrap and streamlined UI testing with Storybook.
+
+🔹 At Flyfox, I enhanced e-commerce websites, increasing performance by 30% and user engagement by 25%. I built responsive websites using HTML5, CSS3, and JavaScript, reducing page load times by 35%.
+
+I enjoy working in Agile/SCRUM teams. I mentor junior developers and focus on delivering clean, scalable code.
+
+📩 Let’s Connect!
 
 ### 🤝 Connect with me:
 
