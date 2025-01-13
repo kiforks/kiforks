@@ -3,11 +3,11 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/kiforks?tab=repositories&sort=stargazers">
+  <a href="https://github.com/kiforks?tab=repositories&sort=stargazers" target="_blank">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=ffa600&labelColor=db9003&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kiforks"/></a>
-  <a href="https://github.com/kiforks?tab=repositories&sort=stargazers">
+  <a href="https://github.com/kiforks?tab=repositories&sort=stargazers" target="_blank">
     <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/kiforks"/></a>
-  <a href="https://github.com/kiforks">
+  <a href="https://github.com/kiforks" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kiforks?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
