@@ -21,6 +21,12 @@
 - 🌱 Interested in learning new technologies and improving skills
 - 🚀 Ability to work at a fast pace and make decisions in stressful situations
 
+### 🤝 Connect with me:
+
+<a href="https://t.me/bvnksy" target="_blank"><img alt="Telegram" title="Contact me via Telegram" src="https://img.shields.io/badge/telegram-31a9df.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/kiforks" target="_blank"><img alt="LinkedIn" title="Contact me via LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+<a href="mailto:kifor.ko@gmail.com"><img alt="Gmail" title="Contact me via Gmail" src="https://img.shields.io/badge/gmail-eb4b3d.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
 <details>
   <summary>More info</summary>
   
@@ -39,14 +45,6 @@ I am an Angular Frontend Developer with over 5 years of experience. I build scal
 I enjoy working in Agile/SCRUM teams. I mentor junior developers and focus on delivering clean, scalable code.
 
 📩 Let’s Connect!
-
-### 🤝 Connect with me:
-
-<a href="https://t.me/bvnksy" target="_blank"><img alt="Telegram" title="Contact me via Telegram" src="https://img.shields.io/badge/telegram-31a9df.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/kiforks" target="_blank"><img alt="LinkedIn" title="Contact me via LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
-<a href="mailto:kifor.ko@gmail.com"><img alt="Gmail" title="Contact me via Gmail" src="https://img.shields.io/badge/gmail-eb4b3d.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
----
 
 ### 💻 Tech Stack:
 #### 🛠️ Frontend Technologies
