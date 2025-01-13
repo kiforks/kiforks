@@ -76,13 +76,19 @@ I enjoy working in Agile/SCRUM teams. I mentor junior developers and focus on de
 <img alt="jest" src="https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=fff" />&nbsp;
 <img alt="jasmine" src="https://img.shields.io/badge/jasmine-8a4182.svg?&style=for-the-badge&logo=jasmine&logoColor=fff" />&nbsp;
 <img alt="spectator" src="https://img.shields.io/badge/spectator-2aabe2.svg?&style=for-the-badge&logo=spectator&logoColor=2aabe2" />&nbsp;
-<img alt="ng mocks" src="https://img.shields.io/badge/ng mocks-E21A2C.svg?&style=for-the-badge&logo=monster&logoColor=2aabe2" />&nbsp;
+<img alt="ng mock" src="https://img.shields.io/badge/ng mock-E21A2C.svg?&style=for-the-badge&logo=monster&logoColor=2aabe2" />&nbsp;
 
 ###### Build Tools
 <img alt="webpack" src="https://img.shields.io/badge/webpack-8DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=fff" />&nbsp;
 <img alt="gulp" src="https://img.shields.io/badge/gulp-CF4647.svg?&style=for-the-badge&logo=gulp&logoColor=fff" />&nbsp;
 <img alt="rollup" src="https://img.shields.io/badge/rollup-EC4A3F.svg?&style=for-the-badge&logo=rollupdotjs&logoColor=fff" />&nbsp;
 <img alt="vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=for-the-badge&logo=vite&logoColor=fff" />&nbsp;
+
+###### Backend Technologies
+<img alt="graphql" src="https://img.shields.io/badge/graphql-E10098.svg?&style=for-the-badge&logo=graphql&logoColor=fff" />&nbsp;
+<img alt="jwt" src="https://img.shields.io/badge/jwt-000000.svg?&style=for-the-badge&logo=jsonwebtokens&logoColor=fff" />&nbsp;
+<img alt="oauth" src="https://img.shields.io/badge/oauth-3DABDD.svg?&style=for-the-badge&logo=oauth&logoColor=fff" />&nbsp;
+<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 
 ###### Others
 <img alt="websockets" src="https://img.shields.io/badge/web--sockets-010101.svg?&style=for-the-badge&logo=socketdotio&logoColor=fff" />&nbsp;
@@ -106,7 +112,6 @@ I enjoy working in Agile/SCRUM teams. I mentor junior developers and focus on de
 ###### Development Tools & Utilities
 <img alt="ci/cd" src="https://img.shields.io/badge/ci&#47;cd-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=fff" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
-<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
 ###### Project Management
