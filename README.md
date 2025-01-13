@@ -3,11 +3,11 @@
 ###
 
 <div align="center">
-  <a href="https://github.com/kiforks?tab=repositories&sort=stargazers">
+  <a href="https://github.com/kiforks?tab=repositories&sort=stargazers" target="_blank">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=ffa600&labelColor=db9003&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/kiforks"/></a>
-  <a href="https://github.com/kiforks?tab=repositories&sort=stargazers">
+  <a href="https://github.com/kiforks?tab=repositories&sort=stargazers" target="_blank">
     <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/kiforks"/></a>
-  <a href="https://github.com/kiforks">
+  <a href="https://github.com/kiforks" target="_blank">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/kiforks?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
 
@@ -26,20 +26,26 @@
   
   ####
   
-  I am an experienced Angular Frontend Developer with a diverse background working in different environments, from the web studio FlyFox and the American product company TenantCloud to the outstaffing firm Abto Software. My broad experience encompasses leading the development of e-commerce websites, creating complex property management modules, and developing high-performance web applications. My ability to work in teams of various sizes enables me to contribute effectively to projects of varying complexity.
+I am an Angular Frontend Developer with over 5 years of experience. I build scalable and high-performance web applications. I also modernize legacy systems. I have developed over 100 reusable UI components, increasing user engagement by 40%. I led migrations to the latest Angular versions, boosting app performance by 25%.
 
-  I have extensive experience in applying modern technologies such as Angular, TypeScript, RxJS, and NgRx to create intuitive and efficient user interfaces. My portfolio includes the development of ~80% of the UI components for our internal design system, standardizing and enhancing development efficiency and user interaction. This experience demonstrates my capability to create complex and modular design systems that impact the entire product line.
+🔹 At Hygge Software, I built a note-taking tool with text editing and multimedia features. This increased user engagement by 30%. I also created an AI flashcard system that made learning 40% more effective.
 
-  I am committed to continuously improving code quality through refactoring and applying design patterns, and I share best practices and knowledge with colleagues, fostering a culture of mutual learning and development within the team. My high adaptability to different work environments and dedication to industry best practices allow me to make a significant contribution to the projects I work on
+🔹 At Abto Software, I transformed projects by migrating them from AngularJS to the latest Angular versions, improving performance by 25%. I designed responsive and user-friendly interfaces that supported business goals.
+
+🔹 At TenantCloud, I developed a rental management module that made operations 35% more efficient. I also created a reporting system that helped property owners make better decisions, improving results by 20%. I standardized UI components with Angular Material and Bootstrap and streamlined UI testing with Storybook.
+
+🔹 At Flyfox, I enhanced e-commerce websites, increasing performance by 30% and user engagement by 25%. I built responsive websites using HTML5, CSS3, and JavaScript, reducing page load times by 35%.
+
+I enjoy working in Agile/SCRUM teams. I mentor junior developers and focus on delivering clean, scalable code.
+
+📩 Let’s Connect!
 </details>
 
-### 🤝 Connect with me:
+### 🤝 Contacts:
 
 <a href="https://t.me/bvnksy" target="_blank"><img alt="Telegram" title="Contact me via Telegram" src="https://img.shields.io/badge/telegram-31a9df.svg?&style=for-the-badge&logo=telegram&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/kiforks" target="_blank"><img alt="LinkedIn" title="Contact me via LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:kifor.ko@gmail.com"><img alt="Gmail" title="Contact me via Gmail" src="https://img.shields.io/badge/gmail-eb4b3d.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
----
 
 ### 💻 Tech Stack:
 #### 🛠️ Frontend Technologies
@@ -60,7 +66,7 @@
 <img alt="storybook" src="https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=fff" />&nbsp;
 <img alt="tailwindcss" src="https://img.shields.io/badge/tailwind-06B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=fff" />&nbsp;
 <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-7610F7.svg?&style=for-the-badge&logo=bootstrap&logoColor=fff" />&nbsp;
-<img alt="billboard.js" src="https://img.shields.io/badge/billboard.js-f97675.svg?&style=for-the-badge&logo=javascript&logoColor=fff" />&nbsp;
+<img alt="d3.js" src="https://img.shields.io/badge/d3.js-f97675.svg?&style=for-the-badge&logo=d3&logoColor=fff" />&nbsp;
 
 ###### State Management
 <img alt="ngrx" src="https://img.shields.io/badge/ngrx-BA2BD2.svg?&style=for-the-badge&logo=ngrx&logoColor=fff" />&nbsp;
@@ -99,8 +105,8 @@
 
 ###### Development Tools & Utilities
 <img alt="ci/cd" src="https://img.shields.io/badge/ci&#47;cd-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=fff" />&nbsp;
-<img alt="aws" src="https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=awsamplify&logoColor=fff" />&nbsp;
 <img alt="docker" src="https://img.shields.io/badge/docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=fff" />&nbsp;
+<img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=fff" />&nbsp;
 <img alt="markdown" src="https://img.shields.io/badge/markdown-000.svg?&style=for-the-badge&logo=markdown&logoColor=fff" />&nbsp;
 
 ###### Project Management
