@@ -25,18 +25,21 @@
   <summary>More info</summary>
   
   ####
-  
+
+I have over 6 years of experience as an Angular Frontend Developer building scalable web applications, improving performance, and enhancing user experience through architectural optimization, modular component design, and efficient state management.
+
+🔹 Creatio (July 2025 – Present)
+I optimized request caching using IndexedDB and dynamic memoization layers, reducing redundant network usage by 40%. I improved Business Process and Business Rules configuration flows with contextual triggers and runtime logic, increasing setup accuracy and workflow efficiency by 30%. I enhanced Data Source and Schema binding mechanics for faster synchronization and more consistent UI behavior. I also contributed to micro-frontend architecture within an Nx monorepo and expanded testing coverage (unit, integration, E2E) to ensure stability in core designer flows.
+
+🔹 Hygge Software (January 2024 – July 2025)
+I built a Tiptap-based note-taking module with custom ProseMirror plugins, increasing user engagement by 30%. I implemented a bidirectional document-linking system to improve retention metrics by 25%. I developed an AI-powered flashcard generator using OpenAI, improving learning efficiency by 40%. Additionally, I redesigned internal code structure for better modularity, resulting in a 15% increase in development speed. I also mentored junior developers and conducted technical interviews.
+
+🔹 TenantCloud (October 2020 – January 2024)
+I migrated legacy code from AngularJS to modern Angular, improving performance by 25%. I designed a rental management module that increased operational efficiency by 35% and built a reporting system that improved decision-making for property owners by 20%. I also created a large portion of the design system and introduced Storybook for component reviews, reducing feedback loops and ensuring visual consistency.
+
+🔹 FLYFOX (March 2019 – October 2020)
+I improved performance and user experience across multiple e-commerce websites, increasing user engagement by 25% and reducing load times by 35%. I developed responsive layouts and optimized UI rendering for mobile devices.
 I am an Angular Frontend Developer with over 5 years of experience. I build scalable and high-performance web applications. I also modernize legacy systems. I have developed over 100 reusable UI components, increasing user engagement by 40%. I led migrations to the latest Angular versions, boosting app performance by 25%.
-
-🔹 At Hygge Software, I built a note-taking tool with text editing and multimedia features. This increased user engagement by 30%. I also created an AI flashcard system that made learning 40% more effective.
-
-🔹 At Abto Software, I transformed projects by migrating them from AngularJS to the latest Angular versions, improving performance by 25%. I designed responsive and user-friendly interfaces that supported business goals.
-
-🔹 At TenantCloud, I developed a rental management module that made operations 35% more efficient. I also created a reporting system that helped property owners make better decisions, improving results by 20%. I standardized UI components with Angular Material and Bootstrap and streamlined UI testing with Storybook.
-
-🔹 At Flyfox, I enhanced e-commerce websites, increasing performance by 30% and user engagement by 25%. I built responsive websites using HTML5, CSS3, and JavaScript, reducing page load times by 35%.
-
-I enjoy working in Agile/SCRUM teams. I mentor junior developers and focus on delivering clean, scalable code.
 
 📩 Let’s Connect!
 </details>
