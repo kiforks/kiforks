@@ -16,7 +16,7 @@
 ## About me 💻
 
 - 📍 I’m originally from Ukraine and currently living in Czech Republic
-- 💻 6+ Years Experience in Front-end Development
+- 💻 7+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 🌱 Interested in learning new technologies and improving skills
 - 🚀 Ability to work at a fast pace and make decisions in stressful situations
