@@ -15,7 +15,7 @@
 
 ## About me 💻
 
-- 📍 I’m originally from Ukraine and currently living in Czech Republic
+- 📍 I’m originally from Ukraine and currently living in Spain, Barcelona.
 - 💻 7+ Years Experience in Front-end Development
 - 👨‍💻 Front-end Enthusiast & Volunteer
 - 🌱 Interested in learning new technologies and improving skills
